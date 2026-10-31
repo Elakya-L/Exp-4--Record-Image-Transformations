@@ -1,4 +1,4 @@
-# Exp-4--Record-Image-Transformations
+# Exp-4-Image-Transformations
 # Name : Elakya L
 # Reg no: 212225230066
 
